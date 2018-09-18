@@ -1,0 +1,16 @@
+
+input {
+    margin: 10px auto;
+    display: table;
+    width: 80%;
+    border: 1px solid black;
+    padding: 10px 0;
+}
+
+label {
+    padding: 5px;
+}
+select{
+    margin: 10px auto;
+    display: table;  
+}

@@ -1,0 +1,15 @@
+.tile {
+    background-color: antiquewhite;
+    border: 2px solid black;
+    width: 5em;
+    height: 6em;
+    margin: 3px;
+    padding: 5px;
+    list-style-type: none;
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+}
+.tile > p {
+    color: grey;
+}
