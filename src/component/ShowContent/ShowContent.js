@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import './ShowContent.css';
 
 export default class ShowContent extends Component {
     render() {
@@ -7,7 +6,7 @@ export default class ShowContent extends Component {
             <div className= "container">
                 <p>Title  </p>
                 <p>Content </p>
-                <button className = "deleteButton">Delete</button>
+                <button className = "button">Delete</button>
             </div>
         )
     }

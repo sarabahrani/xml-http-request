@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import './AddPost.css'
+import './AddPost.css';
+import './AddPost.css';
 
 export default class AddPost extends Component {
     render() {
@@ -30,6 +31,7 @@ export default class AddPost extends Component {
                     </select>
 
                 </div>
+                <button className="button">Add Post</button>
             </form>
         )
     }
